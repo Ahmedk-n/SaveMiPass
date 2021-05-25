@@ -1,0 +1,2 @@
+master_password = "MASTERPASSWORD"
+

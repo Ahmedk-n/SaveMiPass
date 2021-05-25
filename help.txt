@@ -1,0 +1,17 @@
+## This is the help file ##
+
+- What is SaveMipass ? 
+It is an python app, created and founded by ahmed kadry where it works as a password manger.
+
+
+- What does password manger mean ?
+It means it manges your passwords, if you want to add a new password It adds it for you in a database on 
+your machine in a (hashed form ) , and it also recommend a password for you to use it if you like.
+
+
+-Want to contanct ?
+email : ahmedkadryinfo@gmail.com
+discord : Ahmedk.n#9375
+
+
+Thank you 
